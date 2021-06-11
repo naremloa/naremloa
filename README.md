@@ -1,6 +1,6 @@
 ![naremloa's GitHub stats](https://github-readme-stats.vercel.app/api?username=naremloa&show_icons=true&count_private=true&theme=radical&hide=contribs,issues,prs)
 
-[![naremloa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![naremloa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=naremloa)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
