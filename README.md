@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=graphql,jest,md,mysql,nestjs,nodejs,nuxt,pnpm,py,react,redis,remix,ts,vite,vscode,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,docker,git,graphql,jest,md,mysql,nestjs,nodejs,nuxt,pnpm,py,react,redis,remix,ts,vite,vscode,vue)](https://skillicons.dev)
 
 <!--
 **naremloa/naremloa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
